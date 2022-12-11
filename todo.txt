@@ -1,3 +1,6 @@
 database.js
 install.js
 node install
+src.sw.js
+packasge.json
+webpack.config.js
