@@ -1,6 +1,6 @@
 database.js
 install.js
-node install
-src.sw.js
-packasge.json
+node install -good
+src.sw.js -test
+packasge.json -maybe nothing
 webpack.config.js -test
